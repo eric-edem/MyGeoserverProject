@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-5b17db45:171276368c9:-7ff7</id>
+  <name>gadm36_gha_0</name>
+  <nativeName>gadm36_gha_0</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-5b17db45:171276368c9:-7ffb</id>
+  </namespace>
+  <title>gadm36_gha_0</title>
+  <keywords>
+    <string>features</string>
+    <string>gadm36_gha_0</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>-3.25541925430298</minx>
+    <maxx>1.19177007675171</maxx>
+    <miny>4.73875045776367</miny>
+    <maxy>11.173300743103</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-3.25541925430298</minx>
+    <maxx>1.19177007675171</maxx>
+    <miny>4.73875045776367</miny>
+    <maxy>11.173300743103</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-5b17db45:171276368c9:-7ffa</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
